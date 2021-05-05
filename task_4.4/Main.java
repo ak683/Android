@@ -50,7 +50,7 @@ class Cat {
 
 class Dog {
     String name;  // имя
-    int age;      // фозраст
+    int age;      // возраст
     int angry;    // злость
 
     public Dog(String name, int age, int angry) {
